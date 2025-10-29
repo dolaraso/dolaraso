@@ -1,12 +1,4 @@
-¡Claro, Esteban (flippermen)! He analizado **todo tu contenido actual** (tu sitio/bio, certificaciones HTB Pro Labs, OT/ICS, Cisco, AWS, experiencia en Red Team, CTFs, eventos, etc.) y el **perfil de ejemplo de Arley Garzon** que me pasaste como referencia visual/estructural.
 
-Te entrego **una versión resumida, potente, profesional y 100% optimizada para GitHub README** (estilo moderno, con animaciones, badges, secciones clave), **incorporando tu participación en Ekoparty** y otros eventos importantes que mencionas (Hackron, Cybercamp, Pwn Or Die, Latinoamerica Cybersecurity, etc.).
-
----
-
-### TU NUEVO README.MD (Listo para copiar y pegar en GitHub)
-
-```markdown
 <h1 align="center"><b>Hi , I'm Esteban Jimenez (flippermen) 🔥</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
