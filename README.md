@@ -22,7 +22,7 @@
 - 🐬 **Creador de scripts para Flipper Zero** & charlas de concienciación sobre ethical hacking y herramientas de pentesting inalámbrico
 - 🏆 **Top 1 Nacional Ecuador** | **Puesto 71 Mundial en Hack The Box** – Maestro en máquinas HTB, Pro Labs y CTFs con enfoque en Active Directory, web exploits y post-exploitation
 - 🏅 **Campeón x2 Inggenials Ciberseguridad** – Dominando categorías de ethical hacking y red teaming
-- 🌎 **Representante de Ecuador** en **Latinoamerica Cybersecurity 2025 (Colombia)** – Capitán del equipo, liderando estrategias de ataque y defensa
+- 🌎 **Representante de Ecuador** en **Latinoamerica Cybersecurity 2025 (Colombia)** – Capitán del equipo, liderando estrategias en el ctf
 - 🎤 **Speaker & CTF Architect**: Ekoparty 2025 (Argentina) – Speaker en "Flipper Zero en Red Team Operations" y participante en Wardriving Challenge; Hackron, Cybercamp, CyberEx, Q4 HackTheBox Latino, Pwn Or Die – Diseñando CTFs complejos con escenarios reales de pentesting
 
 > 💬 *“En el mundo de Hack The Box y Parrot OS, cada exploit es una lección. Si no puedes explicarlo simple, no lo entiendes lo suficiente.” – Yo, después de 40h en un Pro Lab HTB*
@@ -135,16 +135,13 @@
 ## 🤝 Conéctate conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/flippermen" target="blank">
+  <a href="https://www.linkedin.com/in/esteban-jimenez-994868249/" target="blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" />
   </a>
-  <a href="mailto:esteban@flippermen.dev">
+  <a href="mailto:esteban.jimenez.rivera@udla.edu.ec">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://x.com/flippermen">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="50" style="filter: invert(1)" />
-  </a>
-  <a href="https://hackthebox.com/profile/flippermen">
+  <a href="https://app.hackthebox.com/profile/overview">
     <img src="https://www.hackthebox.com/images/favicon.ico" height="50" />
   </a>
 </p>
