@@ -142,7 +142,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
   <a href="https://app.hackthebox.com/profile/overview">
-    <img src="https://www.hackthebox.com/images/favicon.ico" height="50" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331423%2Fhack-the-box&psig=AOvVaw27wc47fEnBe_sIYkxBVjcG&ust=1761846005277000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjM5oD6yZADFQAAAAAdAAAAABAL" height="50" />
   </a>
 </p>
 
