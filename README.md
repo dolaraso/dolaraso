@@ -23,7 +23,7 @@
 - 🏆 **Top 1 Nacional Ecuador** | **Puesto 71 Mundial en Hack The Box** – Maestro en máquinas HTB, Pro Labs y CTFs con enfoque en Active Directory, web exploits y post-exploitation
 - 🏅 **Campeón x2 Inggenials Ciberseguridad** – Dominando categorías de ethical hacking y red teaming
 - 🌎 **Representante de Ecuador** en **Latinoamerica Cybersecurity 2025 (Colombia)** – Capitán del equipo, liderando estrategias en el ctf
-- 🎤 **Speaker & CTF Architect**: Ekoparty 2025 (Argentina) – Speaker en "Flipper Zero en Red Team Operations" y participante en Wardriving Challenge; Hackron, Cybercamp, CyberEx, Q4 HackTheBox Latino, Pwn Or Die – Diseñando CTFs complejos con escenarios reales de pentesting
+- 🎤 **Speaker & CTF Architect**: Speaker en "Flipper Zero en Red Team Operations" y participante en Wardriving  EKO PARTY Challenge;CTF EKO PARTY Hackron, Cybercamp, CyberEx, Q4 HackTheBox Latino, Pwn Or Die – Diseñando CTFs complejos con escenarios reales de pentesting
 
 > 💬 *“En el mundo de Hack The Box y Parrot OS, cada exploit es una lección. Si no puedes explicarlo simple, no lo entiendes lo suficiente.” – Yo, después de 40h en un Pro Lab HTB*
 
