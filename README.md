@@ -18,7 +18,7 @@
 ## 🛡️ About Me
 
 - 🎓 **Ingeniería en Ciberseguridad** (en curso) + Ayudante de Cátedra en **Universidad de las Américas**
-- 🩺 **Pentester Independiente** | **Red Team Operator** en EnigmaSec, OneCyber (Binter), ElevenPaths – Especializado en simulaciones de ataques reales, explotación de vulnerabilidades y evasión de defensas
+- 🩺 **Pentester Independiente** | **Red Team Operator** en hacker one– Especializado en simulaciones de ataques reales, explotación de vulnerabilidades y evasión de defensas
 - 🐬 **Creador de scripts para Flipper Zero** & charlas de concienciación sobre ethical hacking y herramientas de pentesting inalámbrico
 - 🏆 **Top 1 Nacional Ecuador** | **Puesto 71 Mundial en Hack The Box** – Maestro en máquinas HTB, Pro Labs y CTFs con enfoque en Active Directory, web exploits y post-exploitation
 - 🏅 **Campeón x2 Inggenials Ciberseguridad** – Dominando categorías de ethical hacking y red teaming
