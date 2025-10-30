@@ -141,8 +141,8 @@
   <a href="mailto:esteban.jimenez.rivera@udla.edu.ec">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://app.hackthebox.com/profile/overview">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331423%2Fhack-the-box&psig=AOvVaw27wc47fEnBe_sIYkxBVjcG&ust=1761846005277000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjM5oD6yZADFQAAAAAdAAAAABAL" height="50" />
+  <a href="https://app.hackthebox.com/profile/2117389">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJwcW1yamFqYXgzOXU5M3NsbDlod2x3Y3Q1NzRrY3Vjc3pweHdqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DUl6BtXGAx2uyqIas/giphy.gif" height="50" />
   </a>
 </p>
 
