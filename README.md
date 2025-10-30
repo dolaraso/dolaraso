@@ -146,16 +146,12 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=flippermen&icon=6&color=0" />
-</div>
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrLVCm1i2e5n2aC/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FmeGRqZGJuY3U5eDhrMTU4dDhodTM3Y3BwdG9wdmI4NzQ3M3JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J6zKnZvb2Lfy/giphy.gif" width="300" />
   <br>
   <i>Currently pwning HTB labs on Parrot OS... and maybe your network (with permission) 😈</i>
 </p>
