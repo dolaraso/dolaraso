@@ -135,7 +135,7 @@
 ## 🤝 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/esteban-jimenez-994868249/" target="blank">
+  <a href="www.linkedin.com/in/esteban-jimenez-r" target="blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" />
   </a>
   <a href="mailto:esteban.jimenez.rivera@udla.edu.ec">
