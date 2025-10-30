@@ -89,7 +89,7 @@
 ## 🎙️ Eventos & Representaciones
 
 ```text
-┌─ Ekoparty 2025 (Argentina) → Speaker: "Flipper Zero en Red Team Operations" + Participante en Wardriving Challenge (explotando redes inalámbricas con Parrot OS y Flipper)
+┌─ Ekoparty 2025 (Argentina) → Participante en Wardriving Challenge (explotando redes inalámbricas con Parrot OS y Flipper), Participante en CTF 
 ├─ Latinoamerica Cybersecurity 2025 (Colombia) → Capitán del Equipo Ecuador: Liderando red team attacks en CTFs multinacionales
 ├─ Pwn Or Die 2025/2024 (Ecuador) → Asistente, Competidor & Speaker en ethical hacking sessions
 ├─ Hackron, Cybercamp, CyberEx, Q4 HTB Latino → Arquitecto de CTFs: Diseñando labs inspirados en HTB con exploits reales
